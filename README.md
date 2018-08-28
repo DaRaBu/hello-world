@@ -1,2 +1,2 @@
 # hello-world
-Simple repository to get started
+Add some new features.
